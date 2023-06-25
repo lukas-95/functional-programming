@@ -1,3 +1,4 @@
+/*
 package com.amigoscode;
 
 import com.amigoscode.PersonRegistrationValidator.ValidationResult;
@@ -39,3 +40,4 @@ public interface PersonRegistrationValidator
     }
 
 }
+*/

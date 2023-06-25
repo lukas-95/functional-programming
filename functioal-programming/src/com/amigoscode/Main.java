@@ -1,3 +1,4 @@
+/*
 package com.amigoscode;
 
 import java.util.function.Consumer;
@@ -10,10 +11,12 @@ public class Main {
         });
     }
 
-    /*
+    */
+/*
      const cb = (firstName) => {
         console.log(firstName + " you must have last name")
-    }*/
+    }*//*
+
 
     static Consumer<String> cb = input ->
             System.out.println(input + " you must have last name");
@@ -29,7 +32,8 @@ public class Main {
         }
     }
 
-    /*
+    */
+/*
     const hello = (firstName, lastName, callback) => {
         console.log(firstName);
         if (lastName) {
@@ -41,5 +45,6 @@ public class Main {
 
     const cb = (firstName) => {
         console.log(firstName + " you must have last name")
-    }*/
-}
+    }*//*
+
+}*/
